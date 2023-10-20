@@ -1,6 +1,6 @@
 # Poetry - How to install on windows?
 
-1. First, you need to turn on Powershell as the administrator entered the poetry installation command
+###1. First, you need to turn on Powershell as the administrator entered the poetry installation command
 (I have it installed, so it shows me The latest version (1.6.1) is already installed.)
 
 ![powershell-command](https://github.com/piotek8/Langchain_Ask_App_update/assets/82182989/02ebf31b-dbed-424e-8798-acf07c299fb0)
