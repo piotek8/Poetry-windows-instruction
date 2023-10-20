@@ -16,19 +16,20 @@
 
 ![image](https://github.com/piotek8/Langchain_Ask_App_update/assets/82182989/2699d092-4a45-42c6-8500-3584ec532cbc)
 
-3.Add into "system variables ( zmienne systemowe ) " and "user variables ( zmienne uzytkownika )"
-4.Enter:
-"C:\Users\Gaming\AppData\Roaming\Python\Scripts"
-into Path in both ( step3 ) and move under the python path. I have like this:
-C:\Users\Gaming\AppData\Local\Programs\Python\Python311
+## Here are examples:
+![variables](https://github.com/piotek8/Langchain_Ask_App_update/assets/82182989/92fa4442-3c4a-46a9-a42f-5e16343df284)
 
-C:\Users\Gaming\AppData\Local\Programs\Python\Python311\Scripts
+## This is the path to the poetry.exe file
+![poetry](https://github.com/piotek8/Poetry-windows-instruction/assets/82182989/ce5556dd-125b-4f33-92ef-2b7370069156)
 
-C:\Users\Gaming\AppData\Roaming\Python\Scripts
+## 3. Check if poetry works using the command (you should have information like here:)
+![poetry version](https://github.com/piotek8/Poetry-windows-instruction/assets/82182989/4d0c16a2-e4a7-431a-8de5-ad58a27109b9)
 
-5. Reset pycharm, terminals or computer if not wroking yet.
-6. Add new interpreter ( in the bottom right corner into pycharm )-> Add local interpreter -> Poetry environment -> OK
-Poetry executable:
-C:\Users\Gaming\AppData\Roaming\Python\Scripts\poetry.exe
+Reset pycharm, terminals or computer if not working yet.
 
-If doesn't work - delete poetry ( po prostu wyjeb wszystkie pliki z poetry ) and try again
+
+
+## 4. Open pycharm and you can add it to your project ( by clicking in the lower right corner - here you will see an arrow )
+![poetry-pycharm](https://github.com/piotek8/Poetry-windows-instruction/assets/82182989/439440f5-c52d-4f84-81b8-944a69b7823b)
+
+
