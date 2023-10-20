@@ -24,7 +24,9 @@
 
 ## 3. Check if poetry works using the command (you should have information like here:)
 ![poetry version](https://github.com/piotek8/Poetry-windows-instruction/assets/82182989/4d0c16a2-e4a7-431a-8de5-ad58a27109b9)
-
+```
+poetry --version
+```
 Reset pycharm, terminals or computer if not working yet.
 
 
