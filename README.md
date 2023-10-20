@@ -1,7 +1,8 @@
 # Poetry - How to install on windows?
 
 ## 1. First, you need to enable PowerShell as an administrator and enter the command:
-(I have it installed, so it shows me that the latest version (1.6.1) is already installed).
+## (I have it installed, so it shows me that the latest version (1.6.1) is already installed).
+
 ```
 (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | py -
 ```
