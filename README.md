@@ -9,7 +9,7 @@
 ![powershell-command](https://github.com/piotek8/Langchain_Ask_App_update/assets/82182989/02ebf31b-dbed-424e-8798-acf07c299fb0)
 ## (I have it installed, so it shows me that the latest version (1.6.1) is already installed).
 
-## 2.Open "edit system environment variables ( edytuj zmienne srodowiskowe systemu )"
+## 2. Open "edit system environment variables ( edytuj zmienne srodowiskowe systemu )"
   - then click it :  "Environment variable ( Zmienne srodowiskowe... )" 
   - press 'Path' in user variables ( zmienne użytkownika ) ->  add the path to your poetry ( will be similar to mine: C:\Users\Gaming\AppData\Roaming\Python\Scripts)
   - do the same for system variables: press 'Path' in system variables ( zmienne systemowe ) -> add the path to your poetry ( will be similar to mine: C:\Users\Gaming\AppData\Roaming\Python\Scripts)
