@@ -10,6 +10,8 @@
 ## (I have it installed, so it shows me that the latest version (1.6.1) is already installed).
 
 2.Open "edit system environment variables ( edytuj zmienne srodowiskowe systemu )", next press "Environment variable ( Zmienne srodowiskowe... )"
+![image](https://github.com/piotek8/Langchain_Ask_App_update/assets/82182989/2699d092-4a45-42c6-8500-3584ec532cbc)
+
 3.Add into "system variables ( zmienne systemowe ) " and "user variables ( zmienne uzytkownika )"
 4.Enter:
 "C:\Users\Gaming\AppData\Roaming\Python\Scripts"
